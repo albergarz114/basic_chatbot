@@ -1,0 +1,78 @@
+{
+    "questions": [
+        {
+            "question": "Hello!",
+            "answer": "Hey there!"
+    
+        },
+        {
+            "question": "how are you?",
+            "answer": "good! thanks for asking!"        
+        },
+        {
+            "question": "What would you recommend from the menu?",
+            "answer": "It depends what you like."        
+        },
+        {
+            "question": "What is your favorite pizza topping on the menu?",
+            "answer": "I recommend todays' special for just $7.50. It's our chef's choice which is margherita pizza and house salad."
+        },
+        {
+            "question": "How about I look at the menu once more?",
+            "answer": "Certainly sir/ma'am"
+        },
+        {
+            "question": "Which beer do you recommend?",
+            "answer": "I do not drink alcohol, but I heard pilsner beer is delicious."
+        },
+        {
+            "question": "Okay I will order a pilsner!",
+            "answer": "Great excellent choice!"
+        },
+        {
+            "question": "Can I get appetizers first and then the main course meal?",
+            "answer": "Absolutely sir! "
+        },
+        {
+            "question": "For appetizers, can I get deep fried calamari and battered fried shrimp? Please",
+            "answer": "Sure thing! Appetizer coming right up!"
+        },
+        {
+            "question": "For the main course, can I get cheeseburger with onion rings and extra freedom fries?",
+            "answer": "You made a right choice!"
+        },
+        {
+            "question": "Which house wine is the best in your restaurant?",
+            "answer": "I would recommend red wine which is red and dry."
+        },
+        {
+            "question":"Which dessert is the cheapest?",
+            "answer": "The cheapest would be chocolate pudding."
+        },
+        {
+            "question": "I would like to pay. Can I get the bill, please?",
+            "answer": "Would you like to pay with cash or card?"
+        },
+        {
+            "question": "Cash, please",
+            "answer": "Okay, that would be $45.00."
+        },
+        {
+            "question": "Food was delicious",
+            "answer": "Thank you!"
+        },
+        {
+            "question":"Bye",
+            "answer": "Goodbye have a nice evening!"
+        }
+
+
+
+
+
+
+
+
+
+    ]
+}
